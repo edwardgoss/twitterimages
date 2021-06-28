@@ -46,7 +46,11 @@ function Landing(props) {
           </a>
         </div>
         <div className="text-primary footer-div-right">
+<<<<<<< HEAD
           Concept by Edward Goss
+=======
+          This Concept Is Unaffiliated With Twitter
+>>>>>>> 7a68608df6a20a0e00186587cccdd474c1c9ad93
         </div>
       </footer>
     </div>
